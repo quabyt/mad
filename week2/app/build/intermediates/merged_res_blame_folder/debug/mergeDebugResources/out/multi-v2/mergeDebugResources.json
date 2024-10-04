@@ -838,7 +838,7 @@
             "outputFile": "tr.edu.mu.ceng.mad.week2.app-debug-31:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\hsngu\\AndroidStudioProjects\\week2\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\hsngu\\Desktop\\week2\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4917,23 +4917,6 @@
             "outputFile": "tr.edu.mu.ceng.mad.week2.app-debug-31:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\hsngu\\AndroidStudioProjects\\week2\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "42",
-                        "endOffsets": "54"
-                    },
-                    "to": {
-                        "startLines": "1979",
-                        "startColumns": "4",
-                        "startOffsets": "131043",
-                        "endColumns": "42",
-                        "endOffsets": "131081"
-                    }
-                },
-                {
                     "source": "C:\\Users\\hsngu\\.gradle\\caches\\transforms-4\\6d2c9634529217257bd35c9b96bac0f2\\transformed\\drawerlayout-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -4950,6 +4933,23 @@
                         "endLines": "138,141,1054,11332",
                         "endColumns": "55,47,51,24",
                         "endOffsets": "7047,7203,62851,719191"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hsngu\\Desktop\\week2\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
+                    },
+                    "to": {
+                        "startLines": "641,960",
+                        "startColumns": "4,4",
+                        "startOffsets": "32859,56535",
+                        "endColumns": "41,41",
+                        "endOffsets": "32896,56572"
                     }
                 },
                 {
@@ -5054,6 +5054,25 @@
                         "startOffsets": "121807,124030",
                         "endColumns": "41,59",
                         "endOffsets": "121844,124085"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hsngu\\Desktop\\week2\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,320",
+                        "endLines": "5,7",
+                        "endColumns": "12,58",
+                        "endOffsets": "314,374"
+                    },
+                    "to": {
+                        "startLines": "2554,6542",
+                        "startColumns": "4,4",
+                        "startOffsets": "179619,459287",
+                        "endLines": "2557,6542",
+                        "endColumns": "12,57",
+                        "endOffsets": "179727,459340"
                     }
                 },
                 {
@@ -5190,23 +5209,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hsngu\\AndroidStudioProjects\\week2\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,41",
-                        "endOffsets": "92,134"
-                    },
-                    "to": {
-                        "startLines": "641,960",
-                        "startColumns": "4,4",
-                        "startOffsets": "32859,56535",
-                        "endColumns": "41,41",
-                        "endOffsets": "32896,56572"
-                    }
-                },
-                {
                     "source": "C:\\Users\\hsngu\\.gradle\\caches\\transforms-4\\dba2e01a8c76622737e536e03a8c294e\\transformed\\appcompat-resources-1.7.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -5262,22 +5264,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hsngu\\AndroidStudioProjects\\week2\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "C:\\Users\\hsngu\\Desktop\\week2\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,320",
-                        "endLines": "5,7",
-                        "endColumns": "12,58",
-                        "endOffsets": "314,374"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "42",
+                        "endOffsets": "54"
                     },
                     "to": {
-                        "startLines": "2554,6542",
-                        "startColumns": "4,4",
-                        "startOffsets": "179619,459287",
-                        "endLines": "2557,6542",
-                        "endColumns": "12,57",
-                        "endOffsets": "179727,459340"
+                        "startLines": "1979",
+                        "startColumns": "4",
+                        "startOffsets": "131043",
+                        "endColumns": "42",
+                        "endOffsets": "131081"
                     }
                 }
             ]

@@ -1,7 +1,7 @@
-#Thu Oct 03 13:03:31 TRT 2024
-base.0=C\:\\Users\\hsngu\\AndroidStudioProjects\\week2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\hsngu\\AndroidStudioProjects\\week2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\hsngu\\AndroidStudioProjects\\week2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+#Fri Oct 04 13:31:51 TRT 2024
+base.0=C\:\\Users\\hsngu\\Desktop\\week2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\hsngu\\Desktop\\week2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\hsngu\\Desktop\\week2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=9/classes.dex
